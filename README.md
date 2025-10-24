@@ -17,4 +17,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navodyah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
+
+[![An image of @navodyah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodyah)](https://holopin.io/@navodyah)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
