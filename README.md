@@ -30,21 +30,6 @@
 
 
 
-🌱 Currently exploring:
-
-
-* Artificial Intelligence & Machine Learning
-
-* Generative AI Applications
-
-* Mobile App Development
-
-* Cloud Technologies
-
-* Full-Stack Development
-
-
-
 🎯 Career Goal:
 
 To become a skilled Software Engineer specializing in AI-powered applications and modern software solutions.
@@ -89,29 +74,27 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
 <p align="center">
   <img src="divider.svg" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Navodyah">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Navodyah&show_icons=true&bg_color=04060a&title_color=00f0ff&icon_color=a855f7&text_color=e5e7eb&border_color=1f2937&hide_border=false&count_private=true&include_all_commits=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=Navodyah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
       alt="GitHub Stats"
       height="195px" />
   </a>
 
   <a href="https://github.com/Navodyah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navodyah&theme=tokyonight&hide_border=false"
-      alt="GitHub Streak Stats"
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navodyah&theme=tokyonight"
+      alt="GitHub Streak"
       height="195px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Navodyah">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Navodyah&layout=compact&bg_color=04060a&title_color=00f0ff&icon_color=a855f7&text_color=e5e7eb&border_color=1f2937&hide_border=false"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyah&layout=compact&theme=tokyonight"
       alt="Top Languages"
       width="420px" />
   </a>
@@ -121,14 +104,34 @@ Interactive furniture marketplace with immersive 3D visualization.
   <img src="divider.svg" width="100%" />
 </p>
 
+<!-- Optional GitHub Activity Graph (HIGHLY RECOMMENDED) -->
 <p align="center">
-  <img src="game.gif" alt="GitHub Contribution Game" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navodyah&theme=react-dark"
+    alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
   <img src="divider.svg" width="100%" />
 </p>
-</div>
+
+<!-- Optional Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Navodyah&theme=tokyonight&no-frame=true&row=1&column=7"
+    alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="divider.svg" width="100%" />
+</p>
+
+<!-- Contribution Animation -->
+<p align="center">
+  <img src="game.gif" alt="Contribution Animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="divider.svg" width="100%" />
+</p>
 
 
 ---
