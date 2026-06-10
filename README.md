@@ -145,15 +145,6 @@ Interactive furniture marketplace with immersive 3D visualization.
 ### 💡 "Code. Learn. Innovate. Repeat."
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Navodyah\&color=blue)
-
-
-
-</div>
-
-
-
 ---
 [![](https://komarev.com/ghpvc/?username=navodyah&icon=2&color=6)](https://visitcount.itsvg.in)
 
@@ -192,13 +183,6 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 
 
-# 📊 GitHub Stats:
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=navodyah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=navodyah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navodyah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 
 [![An image of @navodyah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodyah)](https://holopin.io/@navodyah)
