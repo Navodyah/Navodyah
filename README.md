@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop" alt="Banner" width="100%" height="220" style="object-fit: cover; border-radius: 12px;"/>
+
 
 <br/>
 
