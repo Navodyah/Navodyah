@@ -13,7 +13,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+Learning+Something+New" alt="Typing SVG" />
 
 </div>
+
+
 ---
+
+
 ## 🌟 About Me
 
 
