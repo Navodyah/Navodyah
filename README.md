@@ -99,18 +99,6 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 </div>
 
----
-
-## 🌱 Currently Learning
-
-```text
-Artificial Intelligence
-Machine Learning
-System Design
-Cloud Computing
-Mobile Application Development
-Advanced Software Engineering
-```
 
 ---
 
@@ -143,277 +131,6 @@ Advanced Software Engineering
 </div>
 
 
-
-
-
-### ⚖️ CogniLex – AI-Powered Legal Assistant
-
-
-
-A multilingual legal assistance platform powered by Retrieval-Augmented Generation (RAG) and Large Language Models.
-
-
-
-**Key Features**
-
-
-
-* Multilingual Legal AI Assistant
-
-* Legal Knowledge Retrieval
-
-* Lawyer Marketplace
-
-* Appointment Booking System
-
-* Lawyer–Client Communication
-
-* Case Management Platform
-
-
-
-**Tech Stack**
-
-
-
-* FastAPI
-
-* Next.js
-
-* MongoDB
-
-* ChromaDB
-
-* Groq LLM API
-
-* JWT Authentication
-
-* Cloudflare R2
-
-
-
----
-
-
-
-### 🎬 CinemaX – Premium Entertainment Platform
-
-
-
-A scalable microservices-based cinema management and entertainment platform focused on performance, usability, and modern architecture.
-
-
-
-**Key Features**
-
-
-
-* Online Movie Booking
-
-* User Authentication
-
-* Microservices Architecture
-
-* RESTful APIs
-
-* Responsive User Experience
-
-* Administrative Dashboard
-
-
-
-**Tech Stack**
-
-
-
-* Next.js
-
-* React.js
-
-* Node.js
-
-* Express.js
-
-* Python
-
-* Flask
-
-* MongoDB
-
-* Tailwind CSS
-
-* REST APIs
-
-* Microservices Architecture
-
-
-
----
-
-
-
-### 🏠 Furniture – E-Commerce & 3D Interior Design System
-
-
-
-A modern furniture marketplace integrated with interactive 3D visualization technology, allowing users to experience products in immersive environments.
-
-
-
-**Key Features**
-
-
-
-* Furniture E-Commerce Platform
-
-* Interactive 3D Product Visualization
-
-* Interior Design Experience
-
-* Modern UI/UX
-
-* Real-Time Product Interaction
-
-
-
-**Tech Stack**
-
-
-
-* Next.js
-
-* React.js
-
-* Tailwind CSS
-
-* Three.js
-
-* React Three Fiber
-
-* Firebase
-
-* Firestore
-
-* Framer Motion
-
-* shadcn/ui
-
-
-
----
-
-
-
-### 🌍 Real-Time Air Quality Monitoring Dashboard
-
-
-
-A smart environmental monitoring platform developed for analyzing and visualizing air quality data in real time.
-
-
-
-**Key Features**
-
-
-
-* Live AQI Monitoring
-
-* Data Visualization
-
-* Environmental Analytics
-
-* Interactive Dashboard
-
-
-
-**Tech Stack**
-
-
-
-* ASP.NET Core
-
-* React.js
-
-* PostgreSQL
-
-* REST APIs
-
-* Data Analytics
-
-
-
----
-
-
-
-### 🎓 NSBM Link
-
-
-
-A university-focused digital platform designed to enhance student engagement, accessibility, and academic support services.
-
-
-
-**Key Features**
-
-
-
-* Student Resource Access
-
-* Academic Information Management
-
-* Modern Responsive Interface
-
-* University Service Integration
-
-
-
-**Tech Stack**
-
-
-
-* HTML
-
-* CSS
-
-* JavaScript
-
-* PHP
-
-* MySQL
-
----
-
-
-
-## 🏆 Achievements & Activities
-
-
-
-🏅 IEEE Student Member
-
-
-
-🏅 Organizing Committee Member – Inter-University Hackathon
-
-
-
-🏅 Volunteer – algoXplore 1.0
-
-
-
-🏅 Volunteer – IEEE NSBM Tecnovac
-
-
-
-🏅 Active Contributor to Academic & Technology Projects
-
-
-
----
-
-
-
 ## 📊 GitHub Analytics
 
 
@@ -422,15 +139,15 @@ A university-focused digital platform designed to enhance student engagement, ac
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navodyah\&show_icons=true\&theme=tokyonight)
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyah\&layout=compact\&theme=tokyonight)
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navodyah\&theme=tokyonight)
 
 
 
@@ -441,30 +158,6 @@ A university-focused digital platform designed to enhance student engagement, ac
 ---
 
 
-
-## 🎯 Current Focus
-
-
-
-```text
-
-✓ Full-Stack Development
-
-✓ Artificial Intelligence
-
-✓ Machine Learning
-
-✓ Mobile Application Development
-
-✓ Software Engineering Best Practices
-
-✓ Cloud-Based Solutions
-
-```
-
-
-
----
 
 
 
@@ -528,6 +221,50 @@ A university-focused digital platform designed to enhance student engagement, ac
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=navodyah&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=navodyah&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=navodyah&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=navodyah&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 📊 GitHub Stats:
 <div align="center">
