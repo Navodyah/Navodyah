@@ -86,37 +86,16 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 ---
 
-### 🌍 Real-Time Air Quality Monitoring Dashboard
-
-Environmental monitoring system with real-time AQI analytics and visualization.
-
-**Tech Stack:** ASP.NET Core, React.js, PostgreSQL
-
----
-
-## 🏆 Leadership & Activities
-
-🏅 IEEE Student Member
-
-🏅 Assistant Treasurer – IEEE NSBM WIE Student Branch Affinity Group (2025–2026)
-
-🏅 Organizing Committee Member – Inter-University Hackathon
-
-🏅 Volunteer – IEEE NSBM Tecnovac
-
-🏅 Volunteer – algoXplore 1.0
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navodyah&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyah&layout=compact&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Navodyah&theme=tokyonight"/>
 
 </div>
 
