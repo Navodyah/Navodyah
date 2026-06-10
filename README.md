@@ -76,64 +76,6 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 
 
-<p align="center">
-  <a href="https://github.com/Navodyah">
-    <img src="https://github-readme-stats.vercel.app/api?username=Navodyah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-      alt="GitHub Stats"
-      height="195px" />
-  </a>
-
-  <a href="https://github.com/Navodyah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navodyah&theme=tokyonight"
-      alt="GitHub Streak"
-      height="195px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Navodyah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyah&layout=compact&theme=tokyonight"
-      alt="Top Languages"
-      width="420px" />
-  </a>
-</p>
-
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Code • Learn • Build • Innovate"
-
-![](https://komarev.com/ghpvc/?username=Navodyah\&color=blueviolet)
-
-</div>
-
-
-## 📊 GitHub Analytics
-
-
-
 <div align="center">
 
 
@@ -211,10 +153,6 @@ Interactive furniture marketplace with immersive 3D visualization.
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=navodyah&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=navodyah&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=navodyah&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=navodyah&icon=2&color=6)](https://visitcount.itsvg.in)
