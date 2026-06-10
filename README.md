@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+Learning+Something+New" alt="Typing SVG" />
 
 </div>
-
+---
 ## 🌟 About Me
 
 
@@ -56,68 +56,8 @@ To become a skilled Software Engineer specializing in AI-powered applications an
 
 
 
-### Programming Languages
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-
-
-### Frontend Development
-
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-
-
-### Backend Development
-
-
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-![PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-
-
-### Databases
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-
-
-### Design & Tools
-
-
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
 ---
@@ -126,21 +66,223 @@ To become a skilled Software Engineer specializing in AI-powered applications an
 
 ## 🚀 Featured Projects
 
+### 🚗 AutoFyx – AI-Powered Vehicle Recommendation & Analysis System
+
+
+
+**Final Year Project | Full-Stack AI-Based Web Application**
+
+
+
+AutoFyx is an intelligent vehicle recommendation and analysis platform designed to assist users in selecting suitable vehicles based on their budget, lifestyle, profession, and preferences. The system leverages Machine Learning models and AI-powered analytics to provide personalized recommendations and insights.
+
+
+
+**Key Features**
+
+
+
+* AI-powered vehicle recommendations
+
+* Vehicle comparison and analysis
+
+* Personalized user profiling
+
+* ML-based prediction models
+
+* Real-time data processing
+
+* Secure JWT authentication
+
+
+
+**Tech Stack**
+
+
+
+* Python, FastAPI
+
+* React.js, Next.js, TypeScript
+
+* PostgreSQL, MongoDB
+
+* Scikit-learn
+
+* Random Forest & Gradient Boosting
+
+* Pandas, NumPy
+
+* Groq API
+
+* Tailwind CSS
+
+* Appwrite
+
+* REST APIs
+
+* GitHub
+
+
+
+---
+
 
 
 ### ⚖️ CogniLex – AI-Powered Legal Assistant
 
 
 
-* Multilingual Legal RAG System
+A multilingual legal assistance platform powered by Retrieval-Augmented Generation (RAG) and Large Language Models.
 
-* Lawyer Marketplace & Booking Platform
 
-* AI Chat with Legal Knowledge Retrieval
 
-* FastAPI + Next.js + MongoDB + ChromaDB
+**Key Features**
 
-* Groq LLM Integration
+
+
+* Multilingual Legal AI Assistant
+
+* Legal Knowledge Retrieval
+
+* Lawyer Marketplace
+
+* Appointment Booking System
+
+* Lawyer–Client Communication
+
+* Case Management Platform
+
+
+
+**Tech Stack**
+
+
+
+* FastAPI
+
+* Next.js
+
+* MongoDB
+
+* ChromaDB
+
+* Groq LLM API
+
+* JWT Authentication
+
+* Cloudflare R2
+
+
+
+---
+
+
+
+### 🎬 CinemaX – Premium Entertainment Platform
+
+
+
+A scalable microservices-based cinema management and entertainment platform focused on performance, usability, and modern architecture.
+
+
+
+**Key Features**
+
+
+
+* Online Movie Booking
+
+* User Authentication
+
+* Microservices Architecture
+
+* RESTful APIs
+
+* Responsive User Experience
+
+* Administrative Dashboard
+
+
+
+**Tech Stack**
+
+
+
+* Next.js
+
+* React.js
+
+* Node.js
+
+* Express.js
+
+* Python
+
+* Flask
+
+* MongoDB
+
+* Tailwind CSS
+
+* REST APIs
+
+* Microservices Architecture
+
+
+
+---
+
+
+
+### 🏠 Furniture – E-Commerce & 3D Interior Design System
+
+
+
+A modern furniture marketplace integrated with interactive 3D visualization technology, allowing users to experience products in immersive environments.
+
+
+
+**Key Features**
+
+
+
+* Furniture E-Commerce Platform
+
+* Interactive 3D Product Visualization
+
+* Interior Design Experience
+
+* Modern UI/UX
+
+* Real-Time Product Interaction
+
+
+
+**Tech Stack**
+
+
+
+* Next.js
+
+* React.js
+
+* Tailwind CSS
+
+* Three.js
+
+* React Three Fiber
+
+* Firebase
+
+* Firestore
+
+* Framer Motion
+
+* shadcn/ui
+
+
+
+---
 
 
 
@@ -148,15 +290,41 @@ To become a skilled Software Engineer specializing in AI-powered applications an
 
 
 
+A smart environmental monitoring platform developed for analyzing and visualizing air quality data in real time.
+
+
+
+**Key Features**
+
+
+
 * Live AQI Monitoring
 
-* Data Visualization & Analytics
+* Data Visualization
 
-* ASP.NET Core Backend
+* Environmental Analytics
 
-* React Frontend
+* Interactive Dashboard
 
-* PostgreSQL Database
+
+
+**Tech Stack**
+
+
+
+* ASP.NET Core
+
+* React.js
+
+* PostgreSQL
+
+* REST APIs
+
+* Data Analytics
+
+
+
+---
 
 
 
@@ -164,9 +332,37 @@ To become a skilled Software Engineer specializing in AI-powered applications an
 
 
 
-University-focused web application developed to improve student engagement and accessibility.
+A university-focused digital platform designed to enhance student engagement, accessibility, and academic support services.
 
 
+
+**Key Features**
+
+
+
+* Student Resource Access
+
+* Academic Information Management
+
+* Modern Responsive Interface
+
+* University Service Integration
+
+
+
+**Tech Stack**
+
+
+
+* HTML
+
+* CSS
+
+* JavaScript
+
+* PHP
+
+* MySQL
 
 ---
 
