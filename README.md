@@ -1,6 +1,22 @@
 # 💫 About Me:
  👋 Hey there!<br><br> 🔭 I’m currently working on  <br>A Real-time Air Quality Monitoring Dashboard for Colombo using  ASP.NET Core,  React , and  PostgreSQL. It’s part of my university coursework, and I’m diving deep into full-stack development!<br><br> 👯 I’m looking to collaborate on  <br>Open-source projects or hackathons related to  environmental technology,  web development, or  AI-based applications. If you're building something cool, count me in!<br><br> 🤝 I’m looking for help with  <br>Improving my skills in  ASP.NET Core and  React. If you have experience or resources to share, I’d love to connect and learn from you.<br><br>🌱 I’m currently learning  <br>- ASP.NET Core backend development  <br>- Frontend with React  <br>- PostgreSQL database management  <br>- Mobile app/game development basics  <br>- AI model development from scratch  <br><br> 💬 Ask me about  <br>- My experience volunteering at IEEE events<br>- Getting started in tech with zero coding background  <br>- Being a part of NSBM Green University’s vibrant tech community<br><br>⚡ Fun fact  <br>I helped organize a full-scale inter-university hackathon before I even fully knew how to code — and that experience sparked my journey into tech 🚀  <br>
 
+# Hi there 👋, I'm Navodya Hansini
+
+<div align="center">
+
+
+### 💻 Computer Science Undergraduate | 🚀 Tech Enthusiast | 🤖 AI & Full-Stack Developer
+
+
+*"Building innovative solutions through technology, creativity, and continuous learning."*
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+Learning+Something+New" alt="Typing SVG" />
+
+</div>
+
+
 
 
 # 💻 Tech Stack:
