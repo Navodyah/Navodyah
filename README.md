@@ -56,18 +56,20 @@ I am a passionate Computer Science student dedicated to transforming complex pro
 
 ## 📊 Analytics & Insights
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Navodyah&show_icons=true&theme=tokyonight&hide_border=true" height="150" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodyah&layout=compact&theme=tokyonight&hide_border=true" height="150" /></td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navodyah&theme=tokyonight&hide_border=true" width="100%" />
-</div>
+
+![](https://github-readme-stats.shion.dev/api?username=navodyah&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=navodyah&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=navodyah&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
+
+
+
+
+
+
+
 
 ## 🌍 Connect & Collaborate
 
