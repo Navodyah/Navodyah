@@ -143,7 +143,7 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 
 ### 💡 "Code. Learn. Innovate. Repeat."
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Navodyah\&color=blueviolet)
 
 
 
