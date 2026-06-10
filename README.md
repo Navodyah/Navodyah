@@ -33,7 +33,6 @@
 🌱 Currently exploring:
 
 
-
 * Artificial Intelligence & Machine Learning
 
 * Generative AI Applications
@@ -112,6 +111,181 @@ AutoFyx is an intelligent vehicle recommendation and analysis platform designed 
 
 
 ---
+
+# Hi there 👋, I'm Navodya Hansini
+
+<div align="center">
+
+### 💻 Computer Science Undergraduate | 🚀 Full-Stack Developer | 🤖 AI & Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;IEEE+Student+Member;Building+Innovative+Software+Solutions" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Undergraduate pursuing a **BSc (Hons) in Computer Science** in collaboration with Plymouth University, UK.
+
+💡 Passionate about developing intelligent software solutions, full-stack web applications, and AI-powered systems.
+
+🌱 Currently exploring:
+
+* Artificial Intelligence & Machine Learning
+* Generative AI Applications
+* Software Architecture & Design Patterns
+* Mobile Application Development
+* Cloud Technologies
+
+🎯 Career Goal:
+
+To become a Software Engineer specializing in AI-powered systems, scalable architectures, and modern web technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Backend Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### AI / Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 AutoFyx – AI-Powered Vehicle Recommendation & Analysis System
+
+Final Year Project focused on intelligent vehicle recommendations using Machine Learning and user behavior analysis.
+
+**Tech Stack:** FastAPI, Next.js, React, PostgreSQL, MongoDB, Scikit-Learn, Random Forest, Gradient Boosting, Groq API, Appwrite, TypeScript
+
+---
+
+### ⚖️ CogniLex – AI-Powered Legal Assistant
+
+Multilingual Legal RAG platform with lawyer marketplace, appointment booking, AI legal assistance, and case management.
+
+**Tech Stack:** FastAPI, Next.js, MongoDB, ChromaDB, Groq LLM, JWT Authentication
+
+---
+
+### 🎬 CinemaX – Premium Entertainment Platform
+
+Microservices-based cinema management system with modern UI and scalable backend architecture.
+
+**Tech Stack:** Next.js, React.js, Node.js, Express.js, Python, Flask, MongoDB
+
+---
+
+### 🏠 Furniture – E-Commerce & 3D Interior Design System
+
+Interactive furniture marketplace with immersive 3D visualization.
+
+**Tech Stack:** Next.js, React.js, Three.js, React Three Fiber, Firebase, Tailwind CSS
+
+---
+
+### 🌍 Real-Time Air Quality Monitoring Dashboard
+
+Environmental monitoring system with real-time AQI analytics and visualization.
+
+**Tech Stack:** ASP.NET Core, React.js, PostgreSQL
+
+---
+
+## 🏆 Leadership & Activities
+
+🏅 IEEE Student Member
+
+🏅 Assistant Treasurer – IEEE NSBM WIE Student Branch Affinity Group (2025–2026)
+
+🏅 Organizing Committee Member – Inter-University Hackathon
+
+🏅 Volunteer – IEEE NSBM Tecnovac
+
+🏅 Volunteer – algoXplore 1.0
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+System Design
+Cloud Computing
+Mobile Application Development
+Advanced Software Engineering
+```
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code • Learn • Build • Innovate"
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet)
+
+</div>
+
+
 
 
 
