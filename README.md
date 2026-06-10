@@ -146,43 +146,6 @@ Interactive furniture marketplace with immersive 3D visualization.
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=navodyah&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 [![An image of @navodyah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodyah)](https://holopin.io/@navodyah)
